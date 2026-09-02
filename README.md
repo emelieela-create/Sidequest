@@ -1,8 +1,5 @@
 # Sidequest
 Final project for the Building AI course
-# Sidequest
-
-Final project for the Building AI course
 
 ## Summary
 
